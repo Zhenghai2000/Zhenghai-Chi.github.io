@@ -48,7 +48,7 @@ Research Experiences
   * Macau University of Science and Technology
 
 * The Impact of the Application of Block Chain on Audit Fees
-  * Macau University of Science and Technology
+  * Drexel University & Macau University of Science and Technology
 
 Academic Services
 ======
