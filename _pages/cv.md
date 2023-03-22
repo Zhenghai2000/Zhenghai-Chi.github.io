@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * BBA in Business Analytics, Macau University of Science and Technology, 2023
+  * Undegraduate's Thesis: [Nonparametric Machine Learning and Average Treatment Effect: The Improvement for Estimator by Reduced-Form at the First Stage](https://github.com/Zhenghai2000/Zhenghai-Chi.github.io/tree/master/files/graduation_report.pdf)
 * Ph.D. in Accounting, National University of Singapore, 2027 (expected)
 
 Skills
