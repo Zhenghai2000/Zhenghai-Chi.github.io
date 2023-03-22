@@ -42,13 +42,13 @@ Research Experiences
   * Advisor: Prof. Honghao Zhao, Macau University of Science and Technology
 
 * Research Assistant
-  * Advisor: Prof. Bin Ke, National University of Singapore
+  * National University of Singapore
 
 * Stock Price Synchronicity and Information Disclosure Quality
-  * Advisor: Dr. Chun Lu, Hitotsubashi University
+  * Macau University of Science and Technology
 
 * The Impact of the Application of Block Chain on Audit Fees
-  * Advisor:  Prof. Hiu Lam Choy Drexel University & Dr. Chun Lu, Hitotsubashi University
+  * Macau University of Science and Technology
 
 Academic Services
 ======
