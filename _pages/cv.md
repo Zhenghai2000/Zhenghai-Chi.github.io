@@ -12,9 +12,7 @@ redirect_from:
 Education
 ======
 * BBA in Business Analytics, Macau University of Science and Technology, 2023
-  * Supervisor: Prof. Honghao Zhao & Dr. Chun Lu
-* Ph.D in Accounting, National University of Singapore, 2027 (expected)
-  * Supervisor: Provost's Chair Professor Bin Ke
+* Ph.D. in Accounting, National University of Singapore, 2027 (expected)
 
 Skills
 ======
@@ -46,7 +44,7 @@ Research Experiences
 * Research Assistant
   * Advisor: Prof. Bin Ke, National University of Singapore
 
-* Stock Price Synchronicity and Informaiton Disclosure Quality
+* Stock Price Synchronicity and Information Disclosure Quality
   * Advisor: Dr. Chun Lu, Hitotsubashi University
 
 * The Impact of the Application of Block Chain on Audit Fees
@@ -88,13 +86,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
