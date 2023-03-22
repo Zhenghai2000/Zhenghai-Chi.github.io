@@ -14,9 +14,7 @@ Currently, I am a Ph.D. student in the Department of Accounting at National Univ
 
 Personal Hobbies
 ------
-I am a classical music amateur (especially Chopin, Debussy, Tchaikovsky, and Beethoven). I used to playing some classical pieces of Chopin, e.g., Nocturnes Op.9 No.1., Andante Spianato, etc. I love his use of a more freely flowing rhythm, song-like melody in the right hand, and strongly emotional expression. My favorite pianist is Krystian Zimerman and Yujia Wang. Now, I am striving for the Sonata in D for two pianos, K.448, composed by Mozart. But I need another person and piano...
-
-Also, I am a Japanese animation amateur, and my favorite is Megumi Kato.
+I am a classical music amateur (especially Chopin, Debussy, Tchaikovsky, and Beethoven). I enjoy playing some classical pieces of Chopin, e.g., Nocturnes Op.9 No.1., Andante Spianato. I love his use of a more freely flowing rhythm, song-like melody in the right hand, and strongly emotional expression. My favorite pianist is Krystian Zimerman and Yujia Wang. Now, I am striving for the Sonata in D for two pianos, K.448, composed by Mozart, but I need another person and piano.
 
 For more infomation
 ------
