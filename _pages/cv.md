@@ -16,7 +16,15 @@ Education
 * Ph.D in Accounting, National University of Singapore, 2027 (expected)
   * Supervisor: Provost's Chair Professor Bin Ke
 
-Exchange Experience
+Skills
+======
+* STATA
+* Python
+* R
+* Nvivo
+* Mplus
+
+Exchange Experiences
 ======
 * East China Normal University (ECNU)
   * Distinguished Bachelor Qualification, Graduate’s Summer School of Statistics
@@ -32,7 +40,7 @@ Research Interests
 
 Research Experiences
 ======
-* ATE and Nonparametric Machine Learning within IV method (Graduation Project)
+* Causal Inference and Nonparametric Machine Learning within IV method (Graduation Project)
   * Advisor: Prof. Honghao Zhao, Macau University of Science and Technology
 
 * Research Assistant
@@ -64,6 +72,10 @@ Award & Scholarship
 * Outstanding Scholarship, Macau University of Science and Technology                    
 * Henry Fok Foundation Scholarship, Henry Fok Foundation                                      
 * Outstanding Community Service Award, Macau University of Science and Technology         
+
+Internship
+======
+* Bank of China Macau Branch (Banco da China, Sucursal de Macau)
 
 Publications
 ======
