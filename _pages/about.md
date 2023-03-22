@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! This is Peter's home on the web! Welcome!
 
-Currently, I am a Ph.D. student from the Department of Acocunting & Finance and Financial Risk Management Center at NUS. My research interests include Corporate Governance, the application of Machine Learning, Textual Mining, Causal Inference, and Chinese Market. I hope to anatomize the flux of financial information in the capital market, apprehending the voice delivered by capital flow.
+Currently, I am a Ph.D. student from the Department of Accounting & Finance and Financial Risk Management Center at NUS. My research interests include Corporate Governance, the application of Machine Learning, Textual Mining, Causal Inference, and Chinese Market. I hope to anatomize the flux of financial information in the capital market, apprehending the voice delivered by capital flow.
 
 Personal Hobbies
 ------
@@ -20,4 +20,4 @@ Also, I am a Japanese animation amateur, and my favorite is Megumi Kato.
 
 For more infomation
 ------
-More informaiton of mine, you could see the detail or contact me via [Linkedin](https://www.linkedin.com/in/zhenghai-chi-5b855521a).
+More information of mine, you could see the detail or contact me via [LinkedIn](https://www.linkedin.com/in/zhenghai-chi-5b855521a).
