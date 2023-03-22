@@ -11,30 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BBA in Business Analytics, Macau University of Science and Technology, 2023
+  * Supervisor: Prof. Honghao Zhao & Dr. Chun Lu
+* Ph.D in Accounting, National University of Singapore, 2027 (expected)
+  * Supervisor: Provost's Chair Professor Bin Ke
 
-Work experience
+Exchange Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* East China Normal University (ECNU)
+  * Distinguished Bachelor Qualification, Graduate’s Summer School of Statistics
+* Fudan University (FDU)
+  * Hong Kong & Macau Student Interflow, Ministry of Education of the People’s Republic of China
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Textual Mining
+* Causal Inference
+* Machine Learning
+* Chinese Market
+
+Research Experiences
+======
+* ATE and Nonparametric Machine Learning within IV method (Graduation Project)
+  * Advisor: Prof. Honghao Zhao, Macau University of Science and Technology
+
+* Research Assistant
+  * Advisor: Prof. Bin Ke, National University of Singapore
+
+* Stock Price Synchronicity and Informaiton Disclosure Quality
+  * Advisor: Dr. Chun Lu, Hitotsubashi University
+
+* The Impact of the Application of Block Chain on Audit Fees
+  * Advisor:  Prof. Hiu Lam Choy Drexel University & Dr. Chun Lu, Hitotsubashi University
+
+Academic Services
+======
+* Reviewer (ad-hoc), Journal of Organizational and End User Computing (JOEUC)
+* Reviewer (ad-hoc), Technological Forecasting and Social Change (TFSC)
+* Reviewer (ad-hoc), European Journal of International Management (EJIM)
+
+Academic Activities
+======
+* Member, Eurasia Business and Economics Society (EBES)                      2022 - Present
+* Presenter, Eurasia Business and Economics Society (EBES)                       April 2022
+* Member, Transdisciplinary Econometrics & Data Science Seminar (TEDS)       2021 - Present
+* Discussant, Transdisciplinary Econometrics & Data Science Seminar (TEDS)   2021 - Present
+
+Award & Scholarship
+======
+* NUSRI-CQ PhD Scholarship, Chongqing Municipal People's Government                              2023 - 2027
+* Dean’s list, Macau University of Science and Technology                                        2020 - 2022
+* Outstanding Scholarship, Macau University of Science and Technology                            2019 – 2022
+* Henry Fok Foundation Scholarship, Henry Fok Foundation                                                2021
+* Outstanding Community Service Award, Macau University of Science and Technology                2020 – 2021
 
 Publications
 ======
