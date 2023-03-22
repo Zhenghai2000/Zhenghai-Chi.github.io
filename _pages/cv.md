@@ -52,18 +52,18 @@ Academic Services
 
 Academic Activities
 ======
-* Member, Eurasia Business and Economics Society (EBES)                      2022 - Present
-* Presenter, Eurasia Business and Economics Society (EBES)                       April 2022
-* Member, Transdisciplinary Econometrics & Data Science Seminar (TEDS)       2021 - Present
-* Discussant, Transdisciplinary Econometrics & Data Science Seminar (TEDS)   2021 - Present
+* Member, Eurasia Business and Economics Society (EBES)                   
+* Presenter, Eurasia Business and Economics Society (EBES)                     
+* Member, Transdisciplinary Econometrics & Data Science Seminar (TEDS)      
+* Discussant, Transdisciplinary Econometrics & Data Science Seminar (TEDS)  
 
 Award & Scholarship
 ======
-* NUSRI-CQ PhD Scholarship, Chongqing Municipal People's Government                              2023 - 2027
-* Dean’s list, Macau University of Science and Technology                                        2020 - 2022
-* Outstanding Scholarship, Macau University of Science and Technology                            2019 – 2022
-* Henry Fok Foundation Scholarship, Henry Fok Foundation                                                2021
-* Outstanding Community Service Award, Macau University of Science and Technology                2020 – 2021
+* NUSRI-CQ PhD Scholarship, Chongqing Municipal People's Government                            
+* Dean’s list, Macau University of Science and Technology                                     
+* Outstanding Scholarship, Macau University of Science and Technology                    
+* Henry Fok Foundation Scholarship, Henry Fok Foundation                                      
+* Outstanding Community Service Award, Macau University of Science and Technology         
 
 Publications
 ======
