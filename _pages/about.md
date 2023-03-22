@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! This is Peter's home on the web! Welcome!
 
-Currently, I am a Ph.D. student from the Department of Accounting & Finance and Financial Risk Management Center at NUS. My research interests include Corporate Governance, the application of Machine Learning, Textual Mining, Causal Inference, and Chinese Market. I hope to anatomize the flux of financial information in the capital market, apprehending the voice delivered by capital flow.
+Currently, I am a Ph.D. student in the Department of Accounting at National University of Singapore (NUS). My research interests include Corporate Governance, the application of Machine Learning, Textual Mining, Causal Inference, and Chinese Market. I hope to anatomize the flux of financial information in the capital market, apprehending the voice delivered by capital flow.
 
 Personal Hobbies
 ------
