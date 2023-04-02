@@ -59,7 +59,7 @@ Academic Services
 * Reviewer (ad-hoc), Journal of Organizational and End User Computing (JOEUC)
 * Reviewer (ad-hoc), Technological Forecasting and Social Change (TFSC)
 * Reviewer (ad-hoc), European Journal of International Management (EJIM)
-* reviewer (ad-hoc), Business Ethics, the Environment & Responsibility (BEER)
+* Reviewer (ad-hoc), Business Ethics, the Environment & Responsibility (BEER)
 
 Academic Activities
 ======
