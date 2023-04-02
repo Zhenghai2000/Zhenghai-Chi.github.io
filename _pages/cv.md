@@ -13,7 +13,7 @@ Education
 ======
 * B.B.A. in Business Analytics, Macau University of Science and Technology, 2023
   * Undegraduate's Thesis: [Nonparametric Machine Learning and Average Treatment Effect: The Improvement for Estimator by Reduced-Form at the First Stage](https://github.com/Zhenghai2000/Zhenghai-Chi.github.io/tree/master/files/graduation_report.pdf)
-* Ph.D. in Accounting, National University of Singapore, 2027 (expected)
+* Ph.D. in Management in the department of Accounting, National University of Singapore, 2027 (expected)
 
 Skills
 ======
@@ -44,6 +44,9 @@ Research Experiences
 
 * Research Assistant
   * National University of Singapore
+ 
+* Research Assistant
+  * Singapore Management University
 
 * Stock Price Synchronicity and Information Disclosure Quality
   * Macau University of Science and Technology
@@ -56,6 +59,7 @@ Academic Services
 * Reviewer (ad-hoc), Journal of Organizational and End User Computing (JOEUC)
 * Reviewer (ad-hoc), Technological Forecasting and Social Change (TFSC)
 * Reviewer (ad-hoc), European Journal of International Management (EJIM)
+* reviewer (ad-hoc), Business Ethics, the Environment & Responsibility (BEER)
 
 Academic Activities
 ======
