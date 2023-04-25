@@ -73,8 +73,7 @@ Award & Scholarship
 * NUSRI-CQ PhD Scholarship, Chongqing Municipal People's Government                            
 * Dean’s list, Macau University of Science and Technology                                     
 * Outstanding Scholarship, Macau University of Science and Technology                    
-* Henry Fok Foundation Scholarship, Henry Fok Foundation                                      
-* Outstanding Community Service Award, Macau University of Science and Technology         
+* Henry Fok Foundation Scholarship, Henry Fok Foundation                                        
 
 Internship
 ======
