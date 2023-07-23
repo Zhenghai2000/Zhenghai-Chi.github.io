@@ -60,6 +60,7 @@ Academic Services
 * Reviewer (ad-hoc), Technological Forecasting and Social Change (TFSC)
 * Reviewer (ad-hoc), European Journal of International Management (EJIM)
 * Reviewer (ad-hoc), Business Ethics, the Environment & Responsibility (BEER)
+* Editorial Board Member, Review of Economic Assessment (REA)
 
 Academic Activities
 ======
