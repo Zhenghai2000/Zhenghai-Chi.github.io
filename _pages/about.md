@@ -18,4 +18,4 @@ I am a classical music amateur (especially Chopin, Debussy, Tchaikovsky, and Bee
 
 For more infomation
 ------
-More information of mine, you could see the detail or contact me via [LinkedIn](www.linkedin.com/in/peter-chi-5b855521a).
+More information of mine, you could see the detail or contact me via [LinkedIn](https://www.linkedin.com/in/peter-chi-5b855521a/).
